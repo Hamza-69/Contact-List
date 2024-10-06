@@ -1,3 +1,5 @@
+![Showcase](https://github.com/Hamza-69/Contact-Manager/blob/main/ezgif-2-b8d5db5c31.gif)
+
 # Contact Manager
 
 **Contact Manager** is a Python-based application that allows users to store, manage, and retrieve contact information with ease. It supports adding, deleting, searching, and listing contacts while validating email addresses and phone numbers. The application stores contacts in a JSON file for persistence.
